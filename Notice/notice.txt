@@ -1,0 +1,16 @@
+NOTICE  
+
+This project includes third-party artwork:  
+
+- Title: Pack Colored Birds  
+- Author: DesAll  
+- Source: https://opengameart.org/content/pack-colored-birds  
+- License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)  
+  https://creativecommons.org/licenses/by-sa/4.0/  
+
+In compliance with the license terms:  
+- Proper attribution is given to the original creator (DesAll).  
+- Any modifications to the artwork must also be distributed under CC BY-SA 4.0.  
+
+All other source code and original assets in this project are © 2025 Soham Khule.  
+The code is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
